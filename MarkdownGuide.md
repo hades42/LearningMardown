@@ -1,4 +1,4 @@
-#Mardown Guide
+# Mardown Guide
 **Note**: This is my learning process from the book **Markdown Guide** by *Matt Cone*.
 If by anychance there are someone see this and want to follow the steps I already did, I highly recommend you using a application where you can preview Markdown so you can know what's going on under the hood. I personally using **VSCode** and having a plug-in called **Markdown Preview Enhanced**. 
 You can also watch this [video](https://www.youtube.com/watch?v=HUBNt18RFbo) for quick starting.
